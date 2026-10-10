@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this legal interest engine in judicial research, litigation analytics, or debt recovery software, please cite it as below."
+authors:
+  - name: "UseCOS Engineering Team"
+    website: "https://usecos.app"
+title: "British Columbia Court Order Interest Act Engine: Reference Implementation (RSBC 1996 c. 79 & BC Supreme Court Half-Year Gazette Rates)"
+version: 1.0.0
+date-released: 2026-10-10
+url: "https://github.com/rivlosys/bc-court-order-interest-engine"
+license: MIT
+keywords:
+  - "bc-legal"
+  - "court-order-interest"
+  - "prejudgment-interest"
+  - "postjudgment-interest"
+  - "british-columbia"
+  - "statutory-interest"
